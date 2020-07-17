@@ -1,6 +1,6 @@
 # MobilSahaSatis
 Dara Plus Mobil Saha Satış
-
+Programı kullanmak için iletişime geçin. [İletişim](https://ciftklik.net/iletisim)
 
 |  Menu   |  Cari   |  Plasiyer İşlemleri   |  
 | :--------------------: | :--------------------: | :--------------------: |  
